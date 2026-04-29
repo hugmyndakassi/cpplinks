@@ -17,7 +17,7 @@ See also:
 	- [Software: OS: Linux](#software-os-linux)
 	- [Software: OS: Windows](#software-os-windows)
 	- [Software: Performance](#software-performance)
-- [Talks](#talks): [2024](#talks-2024), [2020](#talks-2020), [2019](#talks-2019), [2018](#talks-2018), [2017](#talks-2017), [2016](#talks-2016), [2015](#talks-2015), [2007](#talks-2007)
+- [Talks](#talks): [2026](#talks-2026), [2024](#talks-2024), [2020](#talks-2020), [2019](#talks-2019), [2018](#talks-2018), [2017](#talks-2017), [2016](#talks-2016), [2015](#talks-2015), [2007](#talks-2007)
 
 ---
 
@@ -582,6 +582,14 @@ Fuzzing applied to software performance.
 ---
 
 # Talks
+
+## Talks: 2026
+
+- Advancing from “What the fuzz?” to “All the Fuzz!”
+- FUZZING 2026 @ NDSS 2026 Keynote
+- Mathias Payer
+- https://www.youtube.com/watch?v=In3kRAVVbzQ
+- "Reflections on the three phases of fuzzing: from origins of fuzzing to the greybox fuzzing, ending with how fuzzing will continue evolving in the future."
 
 ## Talks: 2024
 
