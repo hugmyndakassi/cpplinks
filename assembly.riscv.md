@@ -103,6 +103,12 @@ https://riscv.org/risc-v-books/
 	- VMIL 2024: ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages
 	- Yen-Fu Chen, Meng-Hung Chen, Ching-Chun Huang, Chia-Heng Tu
 	- https://dl.acm.org/doi/10.1145/3689490.3690399
+- Practical and Efficient x86-64 Emulation on RISC-V
+	- European Conference on Computer Systems (EuroSys) 2026
+	- Xiongchuan Tan, Yang Liu, Sebastien Chevalier, Yangyu Chen, Xiaoyi Liu, Haohuan Fu
+	- https://doi.org/10.1145/3767295.3803574
+	- Box64: Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
+		- https://github.com/ptitSeb/box64
 - rv8: a high performance RISC-V to x86 binary translator
 	- First Workshop on Computer Architecture Research with RISC-V (CARRV) 2017
 	- Michael Clark, Bruce Hoult
